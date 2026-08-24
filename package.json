@@ -1,0 +1,14 @@
+{
+  "name": "report-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An Express API for asynchronous report jobs powered by Inngest.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "inngest": "^3.46.0"
+  }
+}
